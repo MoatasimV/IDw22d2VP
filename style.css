@@ -5,12 +5,12 @@ body {
 }    
 /* Header */
     .rtl .top-nav {
-        background-color:#6E0007 !important;
+        background-color:#5815C7!important;
         color:#000;}
     .rtl .main-nav {
         /*background:linear-gradient(to right,#A81519,#CE7B7D ,#FFF);*/
         background-color:#000;
-        color:#555;
+        color:#FFF;
     }
     /*.rtl .main-nav .members-area a {color:#FFF !important}*/
     .rtl .main-nav button.btn.btn-search{color:#000}
@@ -23,7 +23,7 @@ body {
         width: 15px;
         height: 100%;
         position: absolute;
-        background-color: #6E0007;
+        background-color: #5815C7;
         left: -7px;
         top: 0;
         transform: skew(-15deg, 0deg);
@@ -34,7 +34,7 @@ body {
         width: 15px;
         height: 100%;
         position: absolute;
-        background-color: #6E0007;
+        background-color: #5815C7;
         left: -30px;
         top: 0;
         transform: skew(-15deg, 0deg);
@@ -45,7 +45,7 @@ body {
     div#accordion1 {display:none}
     li.nav-item.dropdown.dektop-only{cursor:pointer}
     .ltr .top-nav {
-        background-color:#6E0007 !important;
+        background-color:#5815C7!important;
         color:#FFF;
     } 
     .ltr .main-nav {
@@ -63,7 +63,7 @@ body {
         width: 15px;
         height: 100%;
         position: absolute;
-        background-color: #6E0007;
+        background-color: #5815C7;
         right: -7px;
         top: 0;
         transform: skew(15deg, 0deg);
@@ -74,7 +74,7 @@ body {
         width: 15px;
         height: 100%;
         position: absolute;
-        background-color: #6E0007;
+        background-color: #5815C7;
         right: -30px;
         top: 0;
         transform: skew(15deg, 0deg);
@@ -102,7 +102,7 @@ body {
     }
         /* Banner */
     .home-slider-item {
-        border:1px solid #6E0007;
+        border:1px solid #5815C7;
         border-radius:8px;
     }
     
@@ -117,7 +117,7 @@ body {
         color:#FFF;
     }
     section h2, section h2 a {
-        color:#6E0007 !important;
+        color:#5815C7!important;
         font-weight:bold;}
         
         /* Products */
@@ -202,14 +202,14 @@ body {
     
     .dropdown-menu li a:hover {background-color:#CA7072 !important}
     .main-nav .nav-item.dropdown .nav-link {
-        background-color:#6E0007 !important;
+        background-color:#5815C7!important;
         color:#FFF !important;
         text-indent: 8px;}
     .main-nav .nav-item.dropdown .nav-link:hover {color:#CA7072 !important}
     .navbar-nav .nav-item {margin-right:0 !important}
     .top-nav .navbar-nav .nav-item .dropdown button{color:#FFF !important}
     .top-nav .navbar-nav .nav-item .dropdown button:hover{color:#CA7072 !important}
-    .members-area {background-color:#6E0007}
+    .members-area {background-color:#5815C7}
     /* Menu */
     #slide-navbar-collapse {
         background-color:#FFF}
@@ -256,7 +256,7 @@ body {
     
     .section-title h2 a,
     .section-title h2 {
-        background-color: #6E0007;
+        background-color: #5815C7;
         color: #FFF !important;
         padding: 5px 20px;
         display:inline-block;
