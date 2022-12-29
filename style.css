@@ -191,6 +191,11 @@ section h2 a {
     background-color: #000
 }
 
+.testimonial-item p {
+    margin-top: 1rem !important;
+    margin-bottom: 0;
+}
+
 .testimonial-item::before {
     content: "";
     width: 100%;
@@ -198,7 +203,7 @@ section h2 a {
     position: absolute;
     background-color: #2858a7;
     top: 0;
-    background-color: #8b2424;
+    background-color: #5815C7;
 }
 
 
