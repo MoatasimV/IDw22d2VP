@@ -1,8 +1,5 @@
 /* Arabic  RTL*/
 
-body {
-  background-color: #000;
-}    
 /* Header */
     .rtl .top-nav {
         background-color:#5815C7!important;
@@ -83,16 +80,16 @@ body {
         /* Navigation */
     #alertNotification {background-color:#636566}
         /* Body */
-    body {background-color:#FFF}
+    body {background-color:#000}
     
         /* Header */
-    .top-nav a.dropdown-item.select-language:hover {color:#CA7072 !important}
-    .top-nav .dropdown-menu.show:hover {background-color:#CA7072 !important}
+    .top-nav a.dropdown-item.select-language:hover {color:#9E6DEB !important}
+    .top-nav .dropdown-menu.show:hover {background-color:#9E6DEB !important}
     a.dropdown-item.select-country span {color:#000 !important}
-    .main-nav ul.dropdown-menu li:hover {background-color:#BB474A}
-    .main-nav .input-group-append button:hover {background-color:#CA7072}
-    .main-nav i.fas.fa-shopping-basket:hover {color:#CA7072}
-    .main-nav .members-area a:hover {color:#CA7072 !important}
+    .main-nav ul.dropdown-menu li:hover {background-color:#9E6DEB}
+    .main-nav .input-group-append button:hover {background-color:#9E6DEB}
+    .main-nav i.fas.fa-shopping-basket:hover {color:#9E6DEB}
+    .main-nav .members-area a:hover {color:#9E6DEB !important}
     #navbar_top {
         box-shadow: 0px 2px 9px #666;
     }
@@ -197,18 +194,18 @@ body {
         
     /* Main */   
     .navbar-brand img {width:100px; height:100px}   
-    .navbar .search-group .btn:hover {background-color:#CA7072}
-    .navbar a.btn.btn-demo.cart-toggle-btn:hover {color:#CA7072}    
+    .navbar .search-group .btn:hover {background-color:#9E6DEB}
+    .navbar a.btn.btn-demo.cart-toggle-btn:hover {color:#9E6DEB}    
     
-    .dropdown-menu li a:hover {background-color:#CA7072 !important}
+    .dropdown-menu li a:hover {background-color:#9E6DEB !important}
     .main-nav .nav-item.dropdown .nav-link {
         background-color:#5815C7!important;
         color:#FFF !important;
         text-indent: 8px;}
-    .main-nav .nav-item.dropdown .nav-link:hover {color:#CA7072 !important}
+    .main-nav .nav-item.dropdown .nav-link:hover {color:#9E6DEB !important}
     .navbar-nav .nav-item {margin-right:0 !important}
     .top-nav .navbar-nav .nav-item .dropdown button{color:#FFF !important}
-    .top-nav .navbar-nav .nav-item .dropdown button:hover{color:#CA7072 !important}
+    .top-nav .navbar-nav .nav-item .dropdown button:hover{color:#9E6DEB !important}
     .members-area {background-color:#5815C7}
     /* Menu */
     #slide-navbar-collapse {
