@@ -108,8 +108,16 @@ body {
     color: #9E6DEB !important
 }
 
+.top-nav .dropdown-menu.show {
+    background-color: #5815C7 !important
+}
+
 .top-nav .dropdown-menu.show:hover {
     background-color: #9E6DEB !important
+}
+
+a.dropdown-item.select-country {
+    background-color: #5815C7 !important;
 }
 
 a.dropdown-item.select-country span {
@@ -133,11 +141,11 @@ a.dropdown-item.select-country span {
 }
 
 #navbar_top {
-    box-shadow: 0px 2px 9px #666;
+    box-shadow: rgb(52 52 52 / 16%) 0px 10px 36px 0px, rgb(251 251 251 / 6%) 0px 0px 0px 1px;
 }
 
 #sticky-mobile {
-    box-shadow: 0px 2px 9px #666;
+    box-shadow: rgb(52 52 52 / 16%) 0px 10px 36px 0px, rgb(251 251 251 / 6%) 0px 0px 0px 1px;
 }
 
 /* Banner */
@@ -175,7 +183,7 @@ section h2 a {
     background-color: #000;
     border-radius: 5px;
     overflow: hidden;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    box-shadow: rgb(52 52 52 / 16%) 0px 10px 36px 0px, rgb(251 251 251 / 6%) 0px 0px 0px 1px;
     color: #FFF;
 }
 
@@ -197,11 +205,11 @@ section h2 a {
 
 /* Footer */
 footer * {
-    color: #FFF;
+    color: #FFF !important;
 }
 
 .copyrights {
-    background-color: #000;
+    background-color: #000 !important;
 }
 
 .copyrights-text {
@@ -226,8 +234,9 @@ footer h5 {
 
 footer {
     background-color: #5815C7 !important;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    box-shadow: rgb(52 52 52 / 16%) 0px 10px 36px 0px, rgb(251 251 251 / 6%) 0px 0px 0px 1px;
     margin-top: 40px;
+    color: #FFF !important;
 }
 
 .copyrights {
