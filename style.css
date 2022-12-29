@@ -3,14 +3,14 @@
     /* Header */
     .rtl .top-nav {
         background-color:#6E0007 !important;
-        color:#FFF;}
+        color:#000;}
     .rtl .main-nav {
         /*background:linear-gradient(to right,#A81519,#CE7B7D ,#FFF);*/
-        background-color:#FFF;
+        background-color:#000;
         color:#555;
     }
     /*.rtl .main-nav .members-area a {color:#FFF !important}*/
-    .rtl .main-nav button.btn.btn-search{color:#FFF}
+    .rtl .main-nav button.btn.btn-search{color:#000}
     
     
     /* Edit H2*/
@@ -308,5 +308,5 @@
     .zoomContainer {
         display:none;
     }
-    /* BY Mahmoud Adel Galal ... https://www.facebook.com/mahmoud.adelgalal */
+   
     .copyrights p, .copyrights span {font-weight:bold;font-size:20px;color:#111}
