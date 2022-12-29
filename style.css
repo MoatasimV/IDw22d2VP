@@ -85,7 +85,7 @@
         /* Header */
     .top-nav a.dropdown-item.select-language:hover {color:#9E6DEB !important}
     .top-nav .dropdown-menu.show:hover {background-color:#9E6DEB !important}
-    a.dropdown-item.select-country span {color:#000 !important}
+    a.dropdown-item.select-country span {color:#fff !important}
     .main-nav ul.dropdown-menu li:hover {background-color:#9E6DEB}
     .main-nav .input-group-append button:hover {background-color:#9E6DEB}
     .main-nav i.fas.fa-shopping-basket:hover {color:#9E6DEB}
