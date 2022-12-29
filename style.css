@@ -1,6 +1,9 @@
 /* Arabic  RTL*/
 
-    /* Header */
+body {
+  background-color: #000;
+}    
+/* Header */
     .rtl .top-nav {
         background-color:#6E0007 !important;
         color:#000;}
