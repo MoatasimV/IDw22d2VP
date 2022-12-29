@@ -177,7 +177,9 @@ section h2 a {
     border: 1px solid #CCC;
     padding: 5px;
 }
-
+.top-slider .container{
+    max
+}
 /* Testomonial */
 .testimonial-item {
     background-color: #000;
@@ -352,6 +354,11 @@ footer {
     #slide-navbar-collapse {
         background-color: #FFF
     }
+}
+
+
+.top-nav *:not(i), .main-nav *:not(i , .btn-search) {
+    color: #5815C7 !important;
 }
 
 @media (max-width:992px) {
