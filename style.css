@@ -531,7 +531,16 @@ a.navbar-brand.hide-mobile {
   color: #FFF;
 }
 
-
+#navbar_top {
+  box-shadow: rgba(88, 21, 199, 0.4) 0px 10px 36px 0px, rgba(191, 190, 190, 0.41) 0px 0px 0px 1px;
+}
+.testimonial-item {
+  background-color: #330a79;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  color: #FFF;
+}
 
 
 
