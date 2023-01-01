@@ -570,6 +570,8 @@ body {
   border-radius: 20px;
   box-shadow: rgba(193, 198, 202, 0.2) 7px 6px 16px !important;
   padding: 0!important;
+  position: relative !important;
+  overflow: hidden!important;
 }
 .card{
     border-radius: 20px!important;
@@ -584,10 +586,6 @@ body {
 .card .btn-primary"{
   width: 100%!important;
   margin: 10px!important;
-}
-.card .product-card-wrapper{
-    position: relative !important;
-    overflow: hidden!important;
 }
 .card-price{
 position: absolute!important;
