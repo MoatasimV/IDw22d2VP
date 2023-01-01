@@ -557,7 +557,9 @@ body {
   --footer-primary-color: #fff!important;
 }
 
-
+.main-sections-content .container:nth-child(1) {
+    max-width: 100% !important;
+}
 
 
 
