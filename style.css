@@ -585,6 +585,19 @@ body {
   width: 100%!important;
   margin: 10px!important;
 }
+.product-card-wrapper{
+    position: relative !important;
+    overflow: hidden;
+}
+.card-price{
+position: absolute;
+top: 0;
+left: 0;
+background-color: #12bb3c;
+color: #fff;
+padding: 1px 55px;
+transform: translate(-53px ,15px) rotate(-32deg);
+}
 
 
 
