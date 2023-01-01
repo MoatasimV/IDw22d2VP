@@ -581,8 +581,10 @@ body {
 .card-body {
   padding: 10px !important;
 }
-
-
+.card .btn-primary"{
+  width: 100%!important;
+  margin: 10px!important;
+}
 
 
 
