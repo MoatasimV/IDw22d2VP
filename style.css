@@ -585,7 +585,7 @@ body {
   width: 100%!important;
   margin: 10px!important;
 }
-.product-card-wrapper{
+.card .product-card-wrapper{
     position: relative !important;
     overflow: hidden!important;
 }
