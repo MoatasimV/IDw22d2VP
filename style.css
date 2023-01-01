@@ -41,7 +41,9 @@
     top: 0;
     transform: skew(-15deg, 0deg);
 }
-
+main-sections-content{
+background-color: #5815c7;
+}
 /* English  LTR*/
 /* Header */
 div#accordion1 {
