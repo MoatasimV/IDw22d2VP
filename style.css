@@ -522,6 +522,10 @@ a.navbar-brand.hide-mobile {
 .main-sections-content{
  background-color: #5815c7!important;   
 }
+.main-nav {
+  background-color: #330a79!important; 
+  color: #FFF;
+}
 
 
 
