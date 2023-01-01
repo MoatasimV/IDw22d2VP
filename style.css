@@ -542,11 +542,20 @@ a.navbar-brand.hide-mobile {
   color: #FFF;
 }
 
+.testimonial::after {
+  background-color: #fff!important; 
+}
 
+.copyrights {
+  background-color: #330a79 !important;
+}
 
-
-
-
+body {
+  --primary_color: #5815c7!important;
+  --primary_text_color: #ffffff!important;
+  --header-primary-color: #181616!important;
+  --footer-primary-color: #fff!important;
+}
 
 
 
