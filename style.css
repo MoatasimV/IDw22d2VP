@@ -557,9 +557,7 @@ body {
   --footer-primary-color: #fff!important;
 }
 
-.main-sections-content .container:nth-child(1) {
-    max-width: 100% !important;
-}
+
 .category-item h3 {
   color: #330a79 !important;
 }
