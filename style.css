@@ -532,13 +532,13 @@ a.navbar-brand.hide-mobile {
 }
 
 #navbar_top {
-  box-shadow: rgba(88, 21, 199, 0.4) 0px 10px 36px 0px, rgba(191, 190, 190, 0.41) 0px 0px 0px 1px;
+  box-shadow: rgba(88, 21, 199, 0.4) 0px 10px 36px 0px, rgba(191, 190, 190, 0.41) 0px 0px 0px 1px!important; 
 }
 .testimonial-item {
-  background-color: #330a79;
+  background-color: #330a79!important; 
   border-radius: 5px;
   overflow: hidden;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px!important; 
   color: #FFF;
 }
 
