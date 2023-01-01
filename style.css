@@ -355,7 +355,18 @@ footer {
         background-color: #FFF
     }
 }
-
+.slick-control {
+  position: absolute;
+  top: 50%;
+  background: #fff;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 15px #00000021;
+  cursor: pointer;
+}
 
 .top-nav *:not(i), .main-nav *:not(i , .btn-search) {
     color: #5815C7 !important;
