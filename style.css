@@ -599,13 +599,13 @@ transform: translate(-53px ,15px) rotate(-32deg)!important;
 }
 
 
-.product-card-wrapper::hover{
-    transform: translate(10px, -14px);
+.product-card-wrapper:hover{
+    transform: translate(10px, -14px)!important;
     box-shadow: rgba(193, 198, 202, 0.45) 7px 6px 18px !important;
 }
 
 .loadmore a {
-    transition: 0.8s;
+    transition: 0.8s!important;
 }
 
 
