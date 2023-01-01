@@ -564,6 +564,15 @@ body {
 .category-item.more-categories a {
   color: #6c2fd4 !important;
 }
+.card-price{
+position: absolute!important;
+top: 0!important;
+left: 0!important;
+background-color: #12bb3c!important;
+color: #fff!important;
+padding: 1px 55px!important;
+transform: translate(-53px ,15px) rotate(-32deg)!important;
+}
 .product-card-wrapper {
   border: 1px solid #330A79 !important;
   padding: 5px;
@@ -587,15 +596,7 @@ body {
   width: 100%!important;
   margin: 10px!important;
 }
-.card-price{
-position: absolute!important;
-top: 0!important;
-left: 0!important;
-background-color: #12bb3c!important;
-color: #fff!important;
-padding: 1px 55px!important;
-transform: translate(-53px ,15px) rotate(-32deg)!important;
-}
+
 
 
 
