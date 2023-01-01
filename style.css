@@ -560,10 +560,29 @@ body {
 .main-sections-content .container:nth-child(1) {
     max-width: 100% !important;
 }
+.category-item h3 {
+  color: #330a79 !important;
+}
+.category-item.more-categories a {
+  color: #6c2fd4 !important;
+}
+.product-card-wrapper {
+  border: 1px solid #330A79 !important;
+  padding: 5px;
+  border-radius: 20px;
+  box-shadow: rgba(193, 198, 202, 0.2) 7px 6px 16px !important;
+  padding: 0!important;
+}
+.card{
+    border-radius: 20px!important;
+}
 
-
-
-
+.card-img-top {
+    border-radius: 18px 18px 0 0!important;
+}
+.card-body {
+  padding: 10px !important;
+}
 
 
 
