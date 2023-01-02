@@ -502,7 +502,7 @@ a.navbar-brand.hide-mobile {
 .copyrights span {
     font-weight: bold;
     font-size: 20px;
-    color: #111
+    color: #111;
 }
 
 
@@ -616,10 +616,16 @@ transform: translate(-53px ,15px) rotate(-32deg)!important;
 color: #fff
 }
   @media (max-width: 992px)
-.rtl #sticky-mobile.fixed-top {
-  background-color: #330a79;
-    color:#fff
+    .rtl #sticky-mobile.fixed-top {
+       background-color: #330a79 !important;
+       color:#fff !important;
 }
+ @media (max-width: 992px)
+   #sticky-mobile.fixed-top {
+       background-color: #330a79 !important;
+       color:#fff !important;
+}
+
 
 
 
