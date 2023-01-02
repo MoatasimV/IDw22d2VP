@@ -679,7 +679,9 @@ body {
     }
 
 
-
+.ltr .main-nav {
+  color: #fff !important;
+}
 
 
 
