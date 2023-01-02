@@ -612,8 +612,14 @@ transform: translate(-53px ,15px) rotate(-32deg)!important;
   background-color: #5714c7 !important;
 }
 
-
-
+.modal-title {
+color: #fff
+}
+  @media (max-width: 992px)
+.rtl #sticky-mobile.fixed-top {
+  background-color: #330a79;
+    color:#fff
+}
 
 
 
