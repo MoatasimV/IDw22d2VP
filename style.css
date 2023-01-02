@@ -638,6 +638,13 @@ body {
       left: -8px !important;
       z-index: 999;
     }
+    .card-price{
+        position: relative!important;
+        background-color: #12bb3c!important;
+        color: #fff!important;
+        padding: 1px 55px!important;
+        transform: translate(0,0) rotate(0deg)!important;
+    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
