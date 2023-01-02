@@ -645,6 +645,15 @@ body {
         padding: 1px 55px!important;
         transform: translate(0,0) rotate(0deg)!important;
     }
+    .nav-item.dropdown.dektop-only {
+      display: block;
+    }
+    .navbar-nav .dropdown-menu li a {
+      background: #3a0d84 !important;
+    }
+    .navbar-nav .dropdown-menu ul li a {
+      background: #3a0d84!important;
+    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
