@@ -614,8 +614,15 @@ color: #fff
     }
 }
 @media (max-width: 992px)
-.rtl #sticky-mobile.fixed-top {
-    background-color: #330a79 !important;
+    .rtl #sticky-mobile.fixed-top {
+        background-color: #330a79 !important;
+    }
+    .fa-shopping-basket{
+        color:#FFF!important;
+    }
+    .fa-bars{
+    color:#FFF!important;
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
