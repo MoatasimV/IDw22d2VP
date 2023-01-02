@@ -630,6 +630,14 @@ body {
     .section-title h2 a, .section-title h2 {
       font-size: 22px;
     }
+    .slick-control.prev {
+      right: -8px !important;
+      z-index: 999;
+    }
+    .slick-control.next {
+      left: -8px !important;
+      z-index: 999;
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
