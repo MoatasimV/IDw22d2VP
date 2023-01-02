@@ -673,8 +673,7 @@ body {
       color: #fff;
       height: 155px;
     }
-    .rtl .navbar {
-      background: linear-gradient(to right,#A81519,#FFF);
+    .rtl .navbar {     
       background-color: #5815C7;
       color: #fff;
       height: 155px;
