@@ -627,6 +627,9 @@ body {
     .product-wrapper .col-6 {
     margin-bottom: 20px;
     }
+    .section-title h2 a, .section-title h2 {
+      font-size: 22px;
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
