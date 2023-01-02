@@ -674,9 +674,8 @@ body {
       height: 155px;
     }
     .rtl .navbar {     
-      background-color: #5815C7;
-      color: #fff;
-      height: 155px;
+      background-color: #5815C7 !important;
+      color: #FFF;
     }
 
 
