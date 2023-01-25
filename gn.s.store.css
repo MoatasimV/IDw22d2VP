@@ -1,6 +1,6 @@
 /* TAKWEN custom CSS styles below */ 
 .store-notify{
-background: #169b59 !important
+background: #169b59 !important;
 color : #fff !important;
 }
 .store-notify p{
@@ -14,7 +14,7 @@ padding: 20px !important;
 
 }
 .offers-link, .price-after {
-  color: #04831b !important;
+  color: #169b59 !important;
 }
 .u-light {
   background-color: #fff !important;
