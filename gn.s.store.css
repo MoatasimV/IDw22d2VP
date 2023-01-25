@@ -39,3 +39,6 @@ border: 1px dashed #dedede !important;
 .feature-item__icon {
   background: #169b59!important;
 }
+.product {
+  box-shadow: 0 5px 10px 0 rgba(0,0,0,.12);
+}
