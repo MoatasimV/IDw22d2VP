@@ -22,26 +22,22 @@ box-shadow: 0 1px 10px 2px rgba(0,0,0,.05)!important;
 .site-header__cart .badge {
   background: #169b59 !important;
 }
-
 .offers-link, .price-after {
   color: #169b59 !important;
 }
 .u-light {
-  background-color: #fff !important;
-  
+  background-color: #fff !important; 
 }
 .sub-nav{
 border: 1px dashed #dedede !important;
 }
 .products-grid.eq-height .product.cover > :first-child .img-cont img, .products-grid.eq-height .thumbnail.cover > :first-child .img-cont img, .products-listing.eq-height .product.cover > :first-child .img-cont img, .products-listing.eq-height .thumbnail.cover > :first-child .img-cont img, body.salla-default #products_div.eq-height .product.cover > :first-child .img-cont img, body.salla-default #products_div.eq-height .thumbnail.cover > :first-child .img-cont img {
   height: auto !important;
-  -o-object-fit: cover;
-  object-fit: cover;
+  object-fit: cover !important;
 }
-
 .feature-item__icon {
-  background: #169b59!important;
+  background: #169b59 !important;
 }
 .product {
-  box-shadow: 0 5px 10px 0 rgba(0,0,0,.12);
+  box-shadow: 0 5px 10px 0 rgba(0,0,0,.12) !important;
 }
