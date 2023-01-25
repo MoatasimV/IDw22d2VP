@@ -50,8 +50,14 @@ border: 1px dashed #dedede !important;
   border-color: #169b59 !important;
   color: #169b59 !important;
 }
-
-
+.active-step .cart-number {
+  background: #169b59 !important;
+  border-color: #169b59 !important;
+}
+.cart-number {
+  color: #169b59 !important;
+  border-color: #169b59 !important;
+}
 
 @media screen and (max-width: 992px) {
   height: 186px!important;
