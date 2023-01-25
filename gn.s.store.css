@@ -59,6 +59,10 @@ border: 1px dashed #dedede !important;
   border-color: #169b59 !important;
 }
 
+#cart-content #cartTotal, #cart-content #cartTotalWeight {
+color: #169b59 !important;
+}
+
 @media screen and (max-width: 992px) {
   height: 186px!important;
 }
