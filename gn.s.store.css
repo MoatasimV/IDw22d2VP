@@ -54,7 +54,7 @@ border: 1px dashed #dedede !important;
   background: #169b59 !important;
   border-color: #169b59 !important;
 }
-.cart-number {
+.cart-number,.cart-nav-submit, .cart-nav-more, .cart-nav-solid {
   color: #169b59 !important;
   border-color: #169b59 !important;
 }
