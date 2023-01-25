@@ -1,4 +1,9 @@
 /* TAKWEN custom CSS styles below */ 
 .store-notify{
 background: #0a4e41 !important;
+color : #fff;
 }
+.store-notify #notify-close i{
+color: #fff;
+}
+
