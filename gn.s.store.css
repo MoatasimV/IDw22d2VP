@@ -41,3 +41,6 @@ border: 1px dashed #dedede !important;
 .product {
   box-shadow: 0 5px 10px 0 rgba(0,0,0,.12) !important;
 }
+.product-add:hover {
+  background: #169b59 !important;
+}
