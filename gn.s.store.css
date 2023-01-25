@@ -11,7 +11,7 @@ color: #fff !important;
 }
 .site-header{
 padding: 20px !important;
-
+box-shadow: 0 1px 10px 2px rgba(0,0,0,.05);
 }
 .offers-link, .price-after {
   color: #169b59 !important;
@@ -25,5 +25,5 @@ color: #636362 !important;
 }
 
 .sub-nav{
-border-top: 1px dashed #dedede !important;
+border: 1px dashed #dedede !important;
 }
