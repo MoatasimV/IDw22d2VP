@@ -36,3 +36,7 @@ color: #169b59 !important;
 .sub-nav{
 border: 1px dashed #dedede !important;
 }
+
+.feature-item__icon {
+  background: #169b59!important;
+}
