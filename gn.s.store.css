@@ -1,21 +1,25 @@
 /* TAKWEN custom CSS styles below */ 
 .store-notify{
 background: #0a4e41 !important;
-color : #fff!important;
+color : #fff !important;
 }
 .store-notify p{
-  color : #fff!important;
+  color : #fff !important;
 }
 .store-notify #notify-close i{
-color: #fff!important;
+color: #fff !important;
 }
 .site-header{
-padding: 20px!important;
-border-bottom: 2px dashed #0a4e4166!important;
+padding: 20px !important;
+border-top: 1px dashed #dedede !important;
 }
 .offers-link, .price-after {
-  color: #00412c !important;
+  color: #04831b !important;
 }
 .u-light {
   background-color: #fff !important;
+  
+}
+.main-menu a{
+color: #636362 !important;
 }
