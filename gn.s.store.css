@@ -3,6 +3,9 @@
 background: #0a4e41 !important;
 color : #fff!important;
 }
+.store-notify p{
+  color : #fff!important;
+}
 .store-notify #notify-close i{
 color: #fff!important;
 }
