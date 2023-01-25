@@ -22,6 +22,9 @@ box-shadow: 0 1px 10px 2px rgba(0,0,0,.05)!important;
 .site-header__cart .badge {
   background: #169b59 !important;
 }
+.main-menu a{
+color: #169b59 !important;
+}
 .offers-link, .price-after {
   color: #169b59 !important;
 }
@@ -29,10 +32,6 @@ box-shadow: 0 1px 10px 2px rgba(0,0,0,.05)!important;
   background-color: #fff !important;
   
 }
-.main-menu a{
-color: #169b59 !important;
-}
-
 .sub-nav{
 border: 1px dashed #dedede !important;
 }
