@@ -1,6 +1,6 @@
 /* TAKWEN custom CSS styles below */ 
 .store-notify{
-background: #0a4e41 !important;
+background: #169b59 !important
 color : #fff !important;
 }
 .store-notify p{
@@ -11,7 +11,7 @@ color: #fff !important;
 }
 .site-header{
 padding: 20px !important;
-border-top: 1px dashed #dedede !important;
+
 }
 .offers-link, .price-after {
   color: #04831b !important;
@@ -22,4 +22,8 @@ border-top: 1px dashed #dedede !important;
 }
 .main-menu a{
 color: #636362 !important;
+}
+
+.sub-nav{
+border-top: 1px dashed #dedede !important;
 }
