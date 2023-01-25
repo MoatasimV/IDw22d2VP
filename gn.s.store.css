@@ -44,3 +44,8 @@ border: 1px dashed #dedede !important;
 .product-add:hover {
   background: #169b59 !important;
 }
+
+.section-header .section--title {
+  border-color: #169b59 !important;
+  color: #169b59 !important;
+}
