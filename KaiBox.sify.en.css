@@ -1,4 +1,3 @@
-
-.rich-text__heading rte h2{
+.rich-text__blocks > *{
   color: red;
 }
