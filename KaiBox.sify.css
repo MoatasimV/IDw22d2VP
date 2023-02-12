@@ -1,3 +1,10 @@
 .gradient{
   background: #FFF;
 }
+.footer {
+  background-color: #070707;
+}
+.footer__content-top{
+  padding-top:0;
+  padding-bottom: 0;
+}
