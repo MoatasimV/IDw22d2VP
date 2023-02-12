@@ -1,5 +1,8 @@
 .gradient{
-  background: #FFF;
+  background-color: #FFF;
+}
+.header {
+  background-color: #FFF;
 }
 .footer {
   background-color: #070707;
