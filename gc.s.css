@@ -67,3 +67,22 @@ color: #169b59 !important;
   height: 186px!important;
 }
 }
+
+
+
+@media (prefers-color-scheme: dark) {
+:root {
+  --main-color: #c7cfd3;
+  --infinte-color: #c7cfd3;
+  --main-text-color: #b4cad6;
+  --main-text-color2: #FFFFFF;
+  --main-text-color-dark: #d7e2e5;
+  --color-main: #c7cfd3;
+  --color-main-d: #e4eff1;
+  --color-main-l: #00b6bb;
+  --color-main-reverse: #9bc7cf;
+  --color-text: #d6d6d6;
+  --color-text-reverse: #1b2729;
+  --color-title: #bfd1d5;
+}
+}
