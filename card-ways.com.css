@@ -1,81 +1,110 @@
-body{
+body {
 
     background-color: #141B2B !important;
 
 }
+
 .header-components {
     background-color: #17223B !important;
     border-color: #17223B !important;
 }
+
 .fixed-pinned.header-components, .fixed-pinned .inner {
 
     background-color: #17223B;
     border-bottom: 2px solid #517494;
-  }
-  .main-menu li.root-level > a {
-color:#fff;
-  }
+}
+
+.main-menu li.root-level>a {
+    color: #fff;
+}
+
 a.s-cart-summary-wrapper {
     color: #fff;
-  }
-  .s-slider-block__title{
+}
+
+.s-slider-block__title {
 
     color: #517494;
-  }
-  .s-slider-nav-arrow {
+}
+
+.s-slider-nav-arrow {
     border-color: #f9d970;
-  }
-  .bg-inherit {
+}
+
+.bg-inherit {
     background-color: #517494;
-  }
-  .product-entry--vertical .content-wrap{
+}
+
+.product-entry--vertical .content-wrap {
     background-color: #17223b;
-  }
-  .product-entry__image img {
+}
+
+.product-entry__image img {
     max-height: 40vh !important;
-  }
-  *, ::before, ::after {
+}
+
+*, ::before, ::after {
     border-color: none;
-  }
-  .s-button-primary-outline {
+}
+
+.s-button-primary-outline {
     fill: #F6D878;
     color: #F6D878;
-  }
-  .footer-is-light .store-footer {
+}
+
+.footer-is-light .store-footer {
     background-color: #17223b;
     color: wheat;
-  }
-  .s-block--slider-with-bg {
+}
+
+.s-block--slider-with-bg {
     background-color: #141b2b;
-  }
-  .product-entry__title a {
+}
+
+.product-entry__title a {
     color: #fff;
-  }
-  .product-entry--vertical .content-wrap h4{
+}
+
+.product-entry--vertical .content-wrap h4 {
     color: #47bd26;
-  }
-  .product-entry--vertical {
+}
+
+.product-entry--vertical {
     border: transparent;
-  }
-  .s-button-primary-outline:hover {
+}
+
+.s-button-primary-outline:hover {
     background-color: #FADA71;
     fill: #17223b;
     color: #17223b;
-  }
-  .s-slider-nav-arrow:not(:disabled):hover {
+}
+
+.s-slider-nav-arrow:not(:disabled):hover {
     border-color: #f6d878;
     background-color: #dec267;
-  }
-  .has-overlay--before::before, .has-overlay--after::after {
+}
+
+.has-overlay--before::before, .has-overlay--after::after {
     background-color: rgba(23, 34, 59, 0.3);
 }
-#slider-with-bg-4 h3{
+
+#slider-with-bg-4 h3 {
     color: #517494;
 }
+
 .s-block--features__item h2 {
     color: #fff;
-  }
-  .s-block--features__item .feature-icon {
+}
+
+.s-block--features__item .feature-icon {
 
     color: #FADA71;
-  }
+}
+
+#swiper-wrapper-75fa3ae1133a516f .swiper-slide h4{
+    color: #fff;
+}
+.product-entry .btn--wishlist:hover{
+    background-color: #931313;
+}
