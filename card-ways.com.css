@@ -54,3 +54,6 @@ a.s-cart-summary-wrapper {
   .product-entry--vertical .content-wrap h4{
     color: #47bd26;
   }
+  .product-entry--vertical {
+    border: transparent;
+  }
