@@ -106,5 +106,12 @@ a.s-cart-summary-wrapper {
     color: #fff;
 }
 .product-entry .btn--wishlist:hover{
-    background-color: #931313;
+    color: #ce2020;
 }
+.cart-item{
+    background-color: #17223b;
+}
+.text-gray-900 {
+    --tw-text-opacity: 1;
+    color: #fff;
+  }
