@@ -31,3 +31,13 @@ a.s-cart-summary-wrapper {
   .product-entry--vertical .content-wrap{
     background-color: #17223b;
   }
+  .product-entry__image img {
+    max-height: 40vh !important;
+  }
+  *, ::before, ::after {
+    border-color: #517494;
+  }
+  .s-button-primary-outline {
+    fill: #F6D878;
+    color: #F6D878;
+  }
