@@ -130,10 +130,32 @@ a.s-cart-summary-wrapper {
 .s-quantity-input-container {
     border-color: #FADA71;
 }
+
 .s-quantity-input-input {
     border-color: #FADA71;
+    color: #17223b;
+    background-color: #FADA71;
+}
+
+.bg-white {
+    background-color: #17223b;
+}
+
+.s-quantity-input-button:hover {
+    fill: #fada71;
+}
+
+.sticky .bg-white h4 {
     color: #fff;
 }
-.bg-white{
-    background-color: #17223b;
+
+.sticky .bg-white b {
+    color: #47bd26;
+}
+
+*, ::before, ::after {
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: #517494;
 }
