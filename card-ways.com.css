@@ -120,6 +120,13 @@ a.s-cart-summary-wrapper {
 .cart-item {
     background-color: #17223b;
 }
+.rtl .fix-align, [dir="rtl"] .fix-align {
+    transform: translateY(-2px);
+    display: inline-block;
+    color: #fff;
+    font-size: 19px;
+    margin: 20px 0;
+  }
 
 .text-gray-900 {
     --tw-text-opacity: 1;
