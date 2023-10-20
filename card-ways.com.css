@@ -159,3 +159,11 @@ a.s-cart-summary-wrapper {
     border-style: solid;
     border-color: #517494;
 }
+.s-button-primary {
+    border-color: #fada71;
+    background-color: transparent;
+  }
+  .s-button-primary:hover {
+    border-color: #fada71;
+    background-color: #fada71;
+  }
