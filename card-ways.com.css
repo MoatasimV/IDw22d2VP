@@ -1,5 +1,18 @@
-body{
 
+<<<<<<< HEAD
     background-color: #223351 !important;
 
 }
+.header-components {
+    border-color: #223351 !important;
+}
+.fixed-pinned.header-components, .fixed-pinned .inner {
+
+    background-color: #223351;
+    border-bottom: 2px solid #517494;
+  }
+  .main-menu li.root-level > a {
+color:#fff;
+  }
+=======
+>>>>>>> parent of ff6ead2 (try)
