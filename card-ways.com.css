@@ -1,0 +1,19 @@
+body{
+
+    background-color: #141B2B !important;
+
+}
+.header-components {
+    border-color: #17223B !important;
+}
+.fixed-pinned.header-components, .fixed-pinned .inner {
+
+    background-color: #17223B;
+    border-bottom: 2px solid #517494;
+  }
+  .main-menu li.root-level > a {
+color:#fff;
+  }
+a.s-cart-summary-wrapper {
+    color: #fff;
+  }
