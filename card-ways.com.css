@@ -227,3 +227,18 @@ a.s-cart-summary-wrapper {
     min-height: 40vh;
     overflow: hidden;
 }
+
+.product-entry__title a:hover {
+    color: #707ff9;
+}
+
+.product-entry {
+    position: relative;
+    display: flex;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 2px;
+    border-width: 1px;
+    --tw-bg-opacity: 1;
+    background-color: #17223b;
+}
