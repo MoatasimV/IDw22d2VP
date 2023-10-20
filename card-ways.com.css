@@ -41,3 +41,12 @@ a.s-cart-summary-wrapper {
     fill: #F6D878;
     color: #F6D878;
   }
+  .footer-is-light .store-footer {
+    --tw-bg-opacity: 1;
+    background-color: #17223b;
+    --tw-text-opacity: 1;
+    color: wheat;
+  }
+  .s-block--slider-with-bg {
+    background-color: #141b2b;
+  }
