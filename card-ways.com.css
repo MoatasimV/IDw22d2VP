@@ -35,18 +35,22 @@ a.s-cart-summary-wrapper {
     max-height: 40vh !important;
   }
   *, ::before, ::after {
-    border-color: #517494;
+    border-color: none;
   }
   .s-button-primary-outline {
     fill: #F6D878;
     color: #F6D878;
   }
   .footer-is-light .store-footer {
-    --tw-bg-opacity: 1;
     background-color: #17223b;
-    --tw-text-opacity: 1;
     color: wheat;
   }
   .s-block--slider-with-bg {
     background-color: #141b2b;
+  }
+  .product-entry__title a {
+    color: #fff;
+  }
+  .product-entry--vertical .content-wrap h4{
+    color: #47bd26;
   }
