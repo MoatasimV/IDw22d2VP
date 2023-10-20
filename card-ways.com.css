@@ -4,6 +4,7 @@ body{
 
 }
 .header-components {
+    background-color: #17223B !important;
     border-color: #17223B !important;
 }
 .fixed-pinned.header-components, .fixed-pinned .inner {
@@ -16,4 +17,11 @@ color:#fff;
   }
 a.s-cart-summary-wrapper {
     color: #fff;
+  }
+  .s-slider-block__title{
+
+    color: #517494;
+  }
+  .s-slider-nav-arrow {
+    border-color: #f9d970;
   }
