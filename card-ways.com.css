@@ -58,7 +58,24 @@ a.s-cart-summary-wrapper {
     border: transparent;
   }
   .s-button-primary-outline:hover {
-    background-color: #F6D878;;
-    fill: #fff;
+    background-color: #FADA71;
+    fill: #17223b;
+    color: #17223b;
+  }
+  .s-slider-nav-arrow:not(:disabled):hover {
+    border-color: #f6d878;
+    background-color: #dec267;
+  }
+  .has-overlay--before::before, .has-overlay--after::after {
+    background-color: rgba(23, 34, 59, 0.3);
+}
+#slider-with-bg-4 h3{
+    color: #517494;
+}
+.s-block--features__item h2 {
     color: #fff;
+  }
+  .s-block--features__item .feature-icon {
+
+    color: #FADA71;
   }
