@@ -8,6 +8,9 @@ body {
     background-color: #17223B !important;
     border-color: #17223B !important;
 }
+.header-components .btn--gray {
+    background-color: rgb(81, 116, 148);
+}
 
 .fixed-pinned.header-components, .fixed-pinned .inner {
 
