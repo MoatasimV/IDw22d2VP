@@ -106,8 +106,8 @@ a.s-cart-summary-wrapper {
     color: #fff;
 }
 
-#swiper-wrapper-75fa3ae1133a516f .swiper-slide p {
-    color: #47bd26;
+.hydrated  p {
+    color: #47bd26 !important;
 }
 
 .product-entry .btn--wishlist:hover {
