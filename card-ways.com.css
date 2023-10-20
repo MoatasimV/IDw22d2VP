@@ -25,3 +25,9 @@ a.s-cart-summary-wrapper {
   .s-slider-nav-arrow {
     border-color: #f9d970;
   }
+  .bg-inherit {
+    background-color: #517494;
+  }
+  .product-entry--vertical .content-wrap{
+    background-color: #17223b;
+  }
