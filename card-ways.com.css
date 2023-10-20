@@ -57,3 +57,8 @@ a.s-cart-summary-wrapper {
   .product-entry--vertical {
     border: transparent;
   }
+  .s-button-primary-outline:hover {
+    background-color: #F6D878;;
+    fill: #fff;
+    color: #fff;
+  }
