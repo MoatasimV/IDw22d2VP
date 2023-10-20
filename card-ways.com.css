@@ -105,7 +105,8 @@ a.s-cart-summary-wrapper {
 #swiper-wrapper-75fa3ae1133a516f .swiper-slide h4 {
     color: #fff;
 }
-#swiper-wrapper-75868cacc85c4f68 h4{
+
+#swiper-wrapper-75868cacc85c4f68 h4 {
     color: #fff;
 }
 
@@ -120,13 +121,14 @@ a.s-cart-summary-wrapper {
 .cart-item {
     background-color: #17223b;
 }
+
 .rtl .fix-align, [dir="rtl"] .fix-align {
     transform: translateY(-2px);
     display: inline-block;
     color: #fff;
     font-size: 19px;
     margin: 20px 0;
-  }
+}
 
 .text-gray-900 {
     --tw-text-opacity: 1;
