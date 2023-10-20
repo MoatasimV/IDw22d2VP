@@ -45,7 +45,7 @@ a.s-cart-summary-wrapper {
 }
 
 .product-entry__image img {
-    max-height: 40vh !important;
+    height: 100% !important;
 }
 
 *, ::before, ::after {
@@ -209,6 +209,21 @@ a.s-cart-summary-wrapper {
     height: 40vh;
     min-height: 40vh;
 }
-.main-content h1{
-    columns: #fff;
+
+.main-content h1 {
+    color: #fff;
+}
+
+.s-product-card-vertical .s-product-card-image {
+    height: 40vh;
+    min-height: 40vh;
+    max-height: 40vh;
+    overflow: hidden;
+}
+
+.product-entry__image {
+    max-height: 40vh;
+    height: 40vh;
+    min-height: 40vh;
+    overflow: hidden;
 }
