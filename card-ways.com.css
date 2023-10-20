@@ -8,6 +8,7 @@ body {
     background-color: #17223B !important;
     border-color: #17223B !important;
 }
+
 .header-components .btn--gray {
     background-color: rgb(81, 116, 148);
 }
@@ -112,8 +113,9 @@ a.s-cart-summary-wrapper {
 #swiper-wrapper-75868cacc85c4f68 h4 {
     color: #fff;
 }
-.swiper-slide h4{
-color: #fff;
+
+.swiper-slide h4 {
+    color: #fff;
 }
 
 .flex-1 p span {
@@ -187,4 +189,26 @@ color: #fff;
     border-color: #fada71;
     background-color: #fada71;
     color: #141B2B;
+}
+
+/*****************/
+.s-product-card-entry {
+    background-color: #17223b;
+}
+
+.s-product-card-content-title a {
+    color: #fff;
+}
+
+.s-product-card-price {
+    color: #47bd26;
+}
+
+.s-product-card-image img.loaded {
+    max-height: 40vh;
+    height: 40vh;
+    min-height: 40vh;
+}
+.main-content h1{
+    columns: #fff;
 }
