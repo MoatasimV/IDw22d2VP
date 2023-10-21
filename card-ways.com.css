@@ -1,12 +1,12 @@
 body {
 
-    background-color: #141B2B !important;
+    background-color: #000000 !important;
 
 }
 
 .header-components {
-    background-color: #17223B !important;
-    border-color: #17223B !important;
+    background-color: #222222 !important;
+    border-color: #222222 !important;
 }
 
 .header-components .btn--gray {
@@ -15,8 +15,8 @@ body {
 
 .fixed-pinned.header-components, .fixed-pinned .inner {
 
-    background-color: #17223B;
-    border-bottom: 2px solid #517494;
+    background-color: #000000;
+    border-bottom: 2px solid #f9d970;
 }
 
 .main-menu li.root-level>a {
@@ -41,7 +41,7 @@ a.s-cart-summary-wrapper {
 }
 
 .product-entry--vertical .content-wrap {
-    background-color: #17223b;
+    background-color: #222222;
 }
 
 .product-entry__image img {
@@ -58,12 +58,12 @@ a.s-cart-summary-wrapper {
 }
 
 .footer-is-light .store-footer {
-    background-color: #17223b;
+    background-color: #111111;
     color: wheat;
 }
 
 .s-block--slider-with-bg {
-    background-color: #141b2b;
+    background-color: #000000;
 }
 
 .product-entry__title a {
@@ -80,8 +80,8 @@ a.s-cart-summary-wrapper {
 
 .s-button-primary-outline:hover {
     background-color: #FADA71;
-    fill: #17223b;
-    color: #17223b;
+    fill: #222222;
+    color: #222222;
 }
 
 .s-slider-nav-arrow:not(:disabled):hover {
@@ -127,7 +127,7 @@ a.s-cart-summary-wrapper {
 }
 
 .cart-item {
-    background-color: #17223b;
+    background-color: #222222;
 }
 
 .rtl .fix-align, [dir="rtl"] .fix-align {
@@ -153,12 +153,12 @@ a.s-cart-summary-wrapper {
 
 .s-quantity-input-input {
     border-color: #FADA71;
-    color: #17223b;
+    color: #222222;
     background-color: #FADA71;
 }
 
 .bg-white {
-    background-color: #17223b;
+    background-color: #222222;
 }
 
 .s-quantity-input-button:hover {
@@ -188,12 +188,12 @@ a.s-cart-summary-wrapper {
 .s-button-primary:hover {
     border-color: #fada71;
     background-color: #fada71;
-    color: #141B2B;
+    color: #000000;
 }
 
 /*****************/
 .s-product-card-entry {
-    background-color: #17223b;
+    background-color: #222222;
 }
 
 .s-product-card-content-title a {
@@ -240,5 +240,5 @@ a.s-cart-summary-wrapper {
     border-radius: 2px;
     border-width: 1px;
     --tw-bg-opacity: 1;
-    background-color: #17223b;
+    background-color: #222222;
 }
