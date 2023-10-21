@@ -5,12 +5,12 @@ body {
 }
 
 .header-components {
-    background-color: #222222 !important;
-    border-color: #222222 !important;
+    background-color: #000000 !important;
+    border-color: #000000 !important;
 }
 
 .header-components .btn--gray {
-    background-color: rgb(81, 116, 148);
+    background-color: #f9d970;
 }
 
 .fixed-pinned.header-components, .fixed-pinned .inner {
@@ -37,7 +37,8 @@ a.s-cart-summary-wrapper {
 }
 
 .bg-inherit {
-    background-color: #517494;
+    background-color: #000000;
+    border-bottom: 2px solid #f9d970;
 }
 
 .product-entry--vertical .content-wrap {
@@ -242,3 +243,8 @@ a.s-cart-summary-wrapper {
     --tw-bg-opacity: 1;
     background-color: #222222;
 }
+
+.main-menu {
+    align-items: start !important;
+    justify-content: start !important;
+  }
