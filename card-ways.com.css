@@ -16,7 +16,7 @@ body {
 .fixed-pinned.header-components, .fixed-pinned .inner {
 
     background-color: #000000;
-    border-bottom: 2px solid #f9d970;
+    border-bottom: 1px solid #f9d970;
 }
 
 .main-menu li.root-level>a {
@@ -38,7 +38,7 @@ a.s-cart-summary-wrapper {
 
 .bg-inherit {
     background-color: #000000;
-    border-bottom: 2px solid #f9d970;
+    border-bottom: 1px solid #f9d970;
 }
 
 .product-entry--vertical .content-wrap {
@@ -248,3 +248,13 @@ a.s-cart-summary-wrapper {
     align-items: start !important;
     justify-content: start !important;
   }
+
+.header-icon-button {
+    color: wheat;
+}
+
+.product-fixed-bar {
+    color: wheat;
+    background-color: #1A1A1A;
+    border-top: 1px solid #f9d970;
+}
