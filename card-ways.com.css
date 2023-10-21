@@ -258,3 +258,11 @@ a.s-cart-summary-wrapper {
     background-color: #1A1A1A;
     border-top: 1px solid #f9d970;
 }
+
+.product-fixed-bar h2 {
+    color: wheat;
+}
+
+.product-fixed-bar a {
+    color: #f9d970;
+}
