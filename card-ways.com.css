@@ -266,3 +266,17 @@ a.s-cart-summary-wrapper {
 .product-fixed-bar a {
     color: #f9d970;
 }
+
+#gb-widget-9125{
+    bottom: 119px;
+
+}
+.page-container:has(#id){
+    padding: 2rem 0;
+}
+.main-content .main-link{
+    color: #84807a;
+}
+.product-entry__image{
+    border-radius: 2.4rem;
+}
