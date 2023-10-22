@@ -267,13 +267,9 @@ a.s-cart-summary-wrapper {
     color: #f9d970;
 }
 
-#gb-widget-2654 {
+#gb-widget-654 {
     bottom: 119px !important;
 
-}
-
-#product-1875983582 {
-    padding: 2rem 0;
 }
 
 .main-content .main-link {
@@ -286,6 +282,7 @@ a.s-cart-summary-wrapper {
     background-color: #d6b448;
     transition: 0.5s;
 }
+
 .product-entry__image:hover {
     padding-bottom: 0;
 }
@@ -293,10 +290,12 @@ a.s-cart-summary-wrapper {
 .product-entry {
     border-radius: 2.4rem 2.4rem 0 0;
 }
-.product-entry__image img{
+
+.product-entry__image img {
     border-radius: 2rem;
     box-shadow: 0 8px 8px -4px #0111168f;
 }
+
 .product-entry__content {
     min-height: 6rem;
 }
