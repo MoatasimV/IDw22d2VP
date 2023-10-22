@@ -297,3 +297,6 @@ a.s-cart-summary-wrapper {
     border-radius: 2rem;
     box-shadow: 0 8px 8px -4px #0111168f;
 }
+.product-entry__content {
+    min-height: 6rem;
+}
