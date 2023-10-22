@@ -299,3 +299,12 @@ a.s-cart-summary-wrapper {
 .product-entry__content {
     min-height: 6rem;
 }
+#more-content ul{
+    color: wheat !important;
+}
+.main-menu .sub-menu {
+    background-color: #f9d970 !important;
+}
+.main-menu li li > a {
+    border-color: #0402002b;
+  }
