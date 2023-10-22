@@ -280,3 +280,6 @@ a.s-cart-summary-wrapper {
 .product-entry__image{
     border-radius: 2.4rem;
 }
+.product-entry{
+    border-radius: 2.4rem 2.4rem 0 0;
+}
