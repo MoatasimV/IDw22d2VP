@@ -289,3 +289,6 @@ a.s-cart-summary-wrapper {
 .product-entry {
     border-radius: 2.4rem 2.4rem 0 0;
 }
+.product-entry__image img{
+    border-radius: 2rem;
+}
