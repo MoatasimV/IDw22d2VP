@@ -409,7 +409,7 @@ salla-installment {
 
 .s-modal-body {
     background-color: #1a1a1a !important;
-    color: #fff;
+    color: #fff !important;
 }
 
 .s-modal-title {
@@ -428,10 +428,17 @@ salla-installment {
 }
 
 .s-modal-close svg {
-    width: 1.25rem;
     fill: #242323 !important;
 }
 
 .s-login-modal-input {
     background-color: #ebebebe3;
+}
+
+.s-product-card-wishlist-btn button:hover svg {
+    fill: #fff !important;
+}
+
+.s-product-card-vertical .s-product-card-wishlist-btn:hover {
+    background-color: #ff000094 !important;
 }
