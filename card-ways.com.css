@@ -442,3 +442,6 @@ salla-installment {
 .s-product-card-vertical .s-product-card-wishlist-btn:hover {
     background-color: #ff000094 !important;
 }
+#product-filter{
+    color: #000 !important;
+}
