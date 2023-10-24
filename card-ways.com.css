@@ -378,3 +378,9 @@ body{
     background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0.87156869583771) 100%);
     z-index: 999999;
 }
+.styles__tabby-promo-snippet--2ddd6 span{
+    color: #404040;
+}
+.article--main ol li strong{
+    color: #fff;
+}
