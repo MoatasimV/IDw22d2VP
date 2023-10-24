@@ -316,27 +316,51 @@ a.s-cart-summary-wrapper {
     --tw-text-opacity: 1;
     color: wheat !important;
 }
-.article--main,.tab-trigger{
+
+.article--main, .tab-trigger {
     color: wheat;
 }
+
 .promotion-badge {
     background-color: #f9d970;
     color: #000;
-  }
-#product-comments-tab{
+}
+
+#product-comments-tab {
     background-color: #1a1a1a;
 }
+
 .text-gray-400 {
     --tw-text-opacity: 1;
     color: wheat !important;
-  }
-  .product-tabs .tabs a:only-child {
+}
+
+.text-gray-500 {
+    --tw-text-opacity: 1;
+    color: wheat;
+}
+
+.product-tabs .tabs a:only-child {
     color: black;
-  }
-  .product-tabs .tabs{
+}
+
+.product-tabs .tabs {
     background-color: #f6d878;
-  }
-  .comment header > div{
+}
+
+.comment header>div {
     align-items: center;
     justify-content: center;
-  }
+}
+
+.rtl .fix-align, [dir="rtl"] .fix-align {
+    margin-bottom: 20px;
+}
+
+.hydrated>div {
+    margin-bottom: 0;
+}
+
+.product-tabs .tabs a:only-child::after {
+    background-color: transparent;
+}
