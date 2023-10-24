@@ -373,14 +373,16 @@ body{
     background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0.87156869583771) 100%);
     z-index: 999999;
 }
-.styles__tabby-promo-snippet__text--93920 span{
+
+.styles__tabby-promo-snippet__content__rtl--ebb36 {
+    margin: 0 0 0 16px;
     color: #404040 !important;
-}
+  }
 .article--main ol li strong{
     color: wheat !important;
 }
 .article--main p strong{
-    color: #fff;
+    color: #fff !important;
 }
 .article--main ol li a{
     color: #2b2d88 !important;
