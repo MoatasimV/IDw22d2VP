@@ -326,3 +326,17 @@ a.s-cart-summary-wrapper {
 #product-comments-tab{
     background-color: #1a1a1a;
 }
+.text-gray-400 {
+    --tw-text-opacity: 1;
+    color: wheat !important;
+  }
+  .product-tabs .tabs a:only-child {
+    color: black;
+  }
+  .product-tabs .tabs{
+    background-color: #f6d878;
+  }
+  .comment header > div{
+    align-items: center;
+    justify-content: center;
+  }
