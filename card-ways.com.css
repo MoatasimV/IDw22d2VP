@@ -384,6 +384,7 @@ body {
 salla-installment {
     color: #404040 !important;
 }
+
 .article--main ol li strong {
     color: wheat !important;
 }
@@ -394,4 +395,13 @@ salla-installment {
 
 .article--main ol li a {
     color: #2b2d88 !important;
+}
+
+.tabs .inactive {
+    background-color: #1a1a1a !important;
+    color: #fff;
+    border: navajowhite;
+}
+.tabs a::after{
+    background-color: transparent !important;
 }
