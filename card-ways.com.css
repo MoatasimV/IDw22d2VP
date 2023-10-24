@@ -316,3 +316,10 @@ a.s-cart-summary-wrapper {
     --tw-text-opacity: 1;
     color: wheat !important;
 }
+.article--main,.tab-trigger{
+    color: wheat;
+}
+.promotion-badge {
+    background-color: #f9d970;
+    color: #000;
+  }
