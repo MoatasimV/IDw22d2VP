@@ -402,6 +402,36 @@ salla-installment {
     color: #fff !important;
     border: navajowhite !important;
 }
-.product-tabs .tabs a::after{
+
+.product-tabs .tabs a::after {
     background-color: transparent !important;
+}
+
+.s-modal-body {
+    background-color: #1a1a1a !important;
+    color: #fff;
+}
+
+.s-modal-title {
+    color: wheat !important;
+}
+
+.s-login-modal-label {
+    color: wheat !important;
+}
+
+.s-modal-close {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    background-color: #fada71 !important;
+}
+
+.s-modal-close svg {
+    width: 1.25rem;
+    fill: #242323 !important;
+}
+
+.s-login-modal-input {
+    background-color: #ebebebe3;
 }
