@@ -379,8 +379,14 @@ body{
     z-index: 999999;
 }
 .styles__tabby-promo-snippet--2ddd6 span{
-    color: #404040;
+    color: #404040 !important;
 }
 .article--main ol li strong{
     color: wheat !important;
+}
+.article--main p{
+    color: #fff;
+}
+.article--main ol li a{
+    color: #2b2d88 !important;
 }
