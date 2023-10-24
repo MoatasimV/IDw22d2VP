@@ -360,30 +360,38 @@ a.s-cart-summary-wrapper {
 .product-tabs .tabs a:only-child::after {
     background-color: transparent;
 }
-body{
+
+body {
     color: #fff !important;
 }
-.swiper-rtl::after{
+
+.swiper-rtl::after {
     content: "";
     position: absolute;
     width: 10%;
     height: 100%;
     right: 0;
     bottom: 0;
-    background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0.87156869583771) 100%);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0%, rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 0.87156869583771) 100%);
     z-index: 999999;
 }
 
 .styles__tabby-promo-snippet__content__rtl--ebb36 {
     margin: 0 0 0 16px;
     color: #404040 !important;
-  }
-.article--main ol li strong{
+}
+
+.styles__tabby-promo-snippet__content__rtl--ebb36 {
+    color: #404040 !important;
+}
+.article--main ol li strong {
     color: wheat !important;
 }
-.article--main p strong{
+
+.article--main p strong {
     color: #fff !important;
 }
-.article--main ol li a{
+
+.article--main ol li a {
     color: #2b2d88 !important;
 }
