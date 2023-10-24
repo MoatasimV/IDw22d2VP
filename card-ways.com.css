@@ -365,3 +365,6 @@ a.s-cart-summary-wrapper {
 .product-tabs .tabs a:only-child::after {
     background-color: transparent;
 }
+body{
+    color: #fff !important;
+}
