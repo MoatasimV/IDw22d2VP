@@ -382,5 +382,5 @@ body{
     color: #404040;
 }
 .article--main ol li strong{
-    color: #fff;
+    color: wheat !important;
 }
