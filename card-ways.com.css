@@ -397,11 +397,11 @@ salla-installment {
     color: #2b2d88 !important;
 }
 
-.tabs .inactive {
+.product-tabs .tabs .inactive {
     background-color: #1a1a1a !important;
-    color: #fff;
-    border: navajowhite;
+    color: #fff !important;
+    border: navajowhite !important;
 }
-.tabs a::after{
+.product-tabs .tabs a::after{
     background-color: transparent !important;
 }
