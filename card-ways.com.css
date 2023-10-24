@@ -354,10 +354,11 @@ a.s-cart-summary-wrapper {
 }
 
 .rtl .fix-align, [dir="rtl"] .fix-align {
+    margin: 0;
     margin-bottom: 20px;
 }
 
-.hydrated>div {
+.hydrated>.border-b {
     margin-bottom: 0;
 }
 
