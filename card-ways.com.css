@@ -445,3 +445,7 @@ salla-installment {
 #product-filter{
     color: #000 !important;
 }
+
+.slide--cat-entry {
+    background-color: black;
+}
