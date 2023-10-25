@@ -454,6 +454,8 @@ salla-installment {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    border-radius: 0px; 
+    border-width: 0px;
     --tw-bg-opacity: 1;
     background-color: transparent;
     padding: 1.25rem;
