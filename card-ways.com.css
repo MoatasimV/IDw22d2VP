@@ -454,19 +454,19 @@ salla-installment {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border-radius: 0px; 
+    border-radius: 0px;
     border-width: 0px;
     --tw-bg-opacity: 1;
     background-color: transparent;
     padding: 1.25rem;
     text-align: center;
     --tw-text-opacity: 1;
-    color: rgba(156,163,175,var(--tw-text-opacity));
-    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    color: rgba(156, 163, 175, var(--tw-text-opacity));
+    transition-timing-function: cubic-bezier(.4, 0, .2, 1);
     transition-duration: 150ms;
-  }
+}
 
-  .slide--cat-entry i {
+.slide--cat-entry i {
     margin-bottom: 1rem;
     display: flex;
     height: 12rem;
@@ -479,4 +479,11 @@ salla-installment {
     line-height: 2.25rem;
     color: #ff6767;
     color: var(--color-primary-reverse);
-  }
+}
+
+footer .bg-white {
+    background-color: #f6d877 !important;
+}
+.s-slider-v-centered .s-slider-block__title-nav {
+    top: 35%;
+}
