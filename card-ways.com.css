@@ -442,6 +442,15 @@ salla-installment {
 .s-product-card-vertical .s-product-card-wishlist-btn:hover {
     background-color: #ff000094 !important;
 }
-#product-filter{
+
+#product-filter {
     color: #000 !important;
+}
+
+.s-slider-v-centered .s-slider-block__title-nav {
+    top: 35%;
+}
+
+footer .bg-white {
+    background-color: #f6d877;
 }
