@@ -487,3 +487,10 @@ footer .bg-white {
 .s-slider-v-centered .s-slider-block__title-nav {
     top: 35%;
 }
+.s-offer-modal-cat-item.swiper-slide {
+    background-color: #fada71;
+    color: black;
+}
+.s-modal-sub-title {
+    color: wheat;
+  }
