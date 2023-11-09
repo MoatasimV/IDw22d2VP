@@ -33,3 +33,6 @@ a .card {
 .js-card-top .position-relative {
     border-radius: 3px !important;
 }
+.card .card-title{
+    color: #000 !important;
+}
