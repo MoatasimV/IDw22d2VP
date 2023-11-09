@@ -7,12 +7,9 @@ body {
 
 }
 
-.nav {
-    font-family: 'Lama Sans', sans-serif !important;
-}
-
 #navigation-menu {
     background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important;
+    font-family: 'Lama Sans', sans-serif !important;
 }
 
 .alert .hstack {
