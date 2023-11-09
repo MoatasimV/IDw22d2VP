@@ -89,10 +89,19 @@ footer .nav .nav-item .nav-link {
     top: 29px;
     left: -67px;
 }
-.swiper-slideh2{
+.swiper-slide h2{
     background-color: transparent !important;
 }
 .swiper-slide h2 a{
     font-weight: bolder;
     color: #cdacf3 !important;
+}
+#js-search-focus{
+    color: #fff !important;
+}
+#js-microphone-icon{
+    color: #cdacf3 !important;
+}
+#js-search-focus::placeholder{
+    color: #cdacf3!important;
 }
