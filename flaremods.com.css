@@ -8,7 +8,7 @@ body {
 
 #main .hstack {
     justify-content: end !important;
-    color: #fff;
+    color: #fff !important;
 }
 
 .alert-primary .alert-link, .footer-marketing-link, .gradient-link, .nav-link {
