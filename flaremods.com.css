@@ -26,10 +26,9 @@ body {
     color: #fff !important;
 }
 
-a .card {
+.card {
     background: rgba(255, 255, 255, 0.35)!important;
-    box-shadow: 0 8px 20px 0 rgba(31, 38, 135, 0.37) !important;
-    backdrop-filter: blur(8px)!important;
+    backdrop-filter: blur(4px)!important;
 }
 
 .js-card-top {
@@ -41,7 +40,7 @@ a .card {
     border-radius: 3px !important;
 }
 .card .card-title{
-    color: #000 !important;
+    color: #fff !important;
 }
 footer{
     background-color: #170231 !important;
