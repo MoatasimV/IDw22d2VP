@@ -50,9 +50,10 @@ footer {
     background-color: #170231 !important;
 }
 
-footer h2 {
+footer .text-body {
+    --bs-text-opacity: 1;
     color: #fff !important;
-}
+  }
 
 footer .text-body-secondary {
     --bs-text-opacity: 1;
