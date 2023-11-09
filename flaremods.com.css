@@ -32,9 +32,12 @@ body {
     color: #fff !important;
 }
 
-a .card, .swiper-container .card {
+a .card {
     background: rgba(255, 255, 255, 0.35) !important;
     backdrop-filter: blur(4px) !important;
+}
+.swiper-container .card {
+    background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) !important;
 }
 
 .js-card-top {
@@ -71,7 +74,9 @@ footer .nav .nav-item .nav-link {
 .css-store {
     background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) !important;
 }
-
+.card-product{
+    overflow: hidden !important;
+}
 .swiper-slide .justify-content-start {
     position: absolute;
     background-color: #0dea0d;
@@ -83,4 +88,11 @@ footer .nav .nav-item .nav-link {
     transform: translate(79px, 51px), rotate(-45deg);
     top: 29px;
     left: -67px;
+}
+.swiper-slideh2{
+    background-color: transparent !important;
+}
+.swiper-slide h2 a{
+    font-weight: bolder;
+    color: #cdacf3 !important;
 }
