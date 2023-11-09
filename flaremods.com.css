@@ -1,1 +1,6 @@
-
+body{
+    background-color: #050B0E;
+}
+.bg-light-subtle{
+    background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important;
+}
