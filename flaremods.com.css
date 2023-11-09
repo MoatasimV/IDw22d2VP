@@ -25,6 +25,9 @@ body {
     color: #cdacf3 !important;
 }
 
+#navbar{
+    background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) !important;
+}
 .nav .nav-item .nav-link {
     color: #fff !important;
 }
