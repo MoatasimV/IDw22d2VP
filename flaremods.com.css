@@ -2,9 +2,12 @@
 
 body {
     /* background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important; */
-    background-color: #9D66E2 !important;
+    background-color: #100123 !important;
     color: #fff !important;
     font-family: 'Lama Sans', sans-serif !important;
+}
+#navigation-menu{
+    background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important;
 }
 
 #navigation-menu .hstack {
