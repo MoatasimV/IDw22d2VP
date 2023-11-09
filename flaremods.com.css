@@ -6,7 +6,7 @@ body {
     font-family: 'Lama Sans', sans-serif !important;
 }
 
-#main .hstack {
+#navigation-menu .hstack {
     justify-content: end !important;
     color: #fff !important;
 }
@@ -17,4 +17,19 @@ body {
 
 .nav .nav-item .nav-link {
     color: #fff !important;
+}
+
+a .card {
+    background: rgba(255, 255, 255, 0.35)!important;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37) !important;
+    backdrop-filter: blur(8px)!important;
+}
+
+.js-card-top {
+    padding: 4px;
+    border-radius: 3px !important;
+}
+
+.js-card-top .position-relative {
+    border-radius: 3px !important;
 }
