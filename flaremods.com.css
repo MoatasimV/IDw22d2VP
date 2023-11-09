@@ -1,13 +1,20 @@
 @import url('https://fonts.cdnfonts.com/css/lama-sans');
-body{
+
+body {
     background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important;
     color: #fff !important;
     font-family: 'Lama Sans', sans-serif !important;
 }
-#main .hstack{
+
+#main .hstack {
     justify-content: end !important;
     color: #fff;
 }
-.nav .nav-item .nav-link{
+
+.alert-primary .alert-link, .footer-marketing-link, .gradient-link, .nav-link {
+    color: #cdacf3 !important;
+}
+
+.nav .nav-item .nav-link {
     color: #fff !important;
 }
