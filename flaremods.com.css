@@ -4,16 +4,18 @@ body {
     /* background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important; */
     background-color: #100123 !important;
     color: #fff !important;
-    
+
 }
-.nav{
+
+.nav {
     font-family: 'Lama Sans', sans-serif !important;
 }
-#navigation-menu{
+
+#navigation-menu {
     background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important;
 }
 
-.alert  .hstack {
+.alert .hstack {
     justify-content: end !important;
     color: #fff !important;
 }
@@ -26,9 +28,9 @@ body {
     color: #fff !important;
 }
 
-a .card ,.swiper-container .card{
-    background: rgba(255, 255, 255, 0.35)!important;
-    backdrop-filter: blur(4px)!important;
+a .card, .swiper-container .card {
+    background: rgba(255, 255, 255, 0.35) !important;
+    backdrop-filter: blur(4px) !important;
 }
 
 .js-card-top {
@@ -39,9 +41,24 @@ a .card ,.swiper-container .card{
 .js-card-top .position-relative {
     border-radius: 3px !important;
 }
-.card .card-title{
+
+.card .card-title {
     color: #fff !important;
 }
-footer{
+
+footer {
     background-color: #170231 !important;
+}
+
+footer h2 {
+    color: #fff !important;
+}
+
+footer .text-body-secondary {
+    --bs-text-opacity: 1;
+    color: rgb(158, 130, 191) !important;
+}
+
+footer .nav .nav-item .nav-link {
+    color: rgb(158, 130, 191) !important;
 }
