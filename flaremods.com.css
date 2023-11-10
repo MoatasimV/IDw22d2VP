@@ -149,7 +149,15 @@ footer .nav .nav-item .nav-link {
 /**********************************/
 #productId .card{
     background-color: #ffffff1a;
+    color: #fff;
 }
 #productId .card .list-group-item{
     background-color: #ffffff1a;
+    color: #fff;
+}
+#productId .card > .list-group{
+    background: #16062d;
+}
+#nav-slider-tab{
+    background-color: #9861d8 ;
 }
