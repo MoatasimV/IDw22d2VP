@@ -6,6 +6,11 @@ body {
     color: #fff !important;
 
 }
+.css-logo {
+    object-fit: contain !important;
+    height: 100% !important;
+    mix-blend-mode: normal!important;
+  }
 
 #navigation-menu {
     background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important;
