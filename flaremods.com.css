@@ -105,3 +105,32 @@ footer .nav .nav-item .nav-link {
 #js-search-focus::placeholder{
     color: #cdacf3!important;
 }
+/*************page2**************/
+.js-wrapper section:nth-child(1){
+    background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) !important;
+}
+.js-wrapper section:nth-child(2){
+    padding: 1.7rem 0 !important;
+}
+.js-wrapper section:nth-child(3) .card {
+    background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) !important;
+}
+.js-wrapper section:nth-child(3) .card .justify-content-start {
+    position: absolute;
+    background-color: #0dea0d;
+    width: 100%;
+    transform: rotate(-45deg) !important;
+    text-align: center;
+    justify-content: center !important;
+    display: flex !important;
+    transform: translate(79px, 51px), rotate(-45deg);
+    top: 29px;
+    left: -67px;
+}
+.js-wrapper section:nth-child(3) h2{
+    background-color: transparent !important;
+}
+.js-wrapper section:nth-child(3) h2 a{
+    font-weight: bolder;
+    color: #cdacf3 !important;
+}
