@@ -146,3 +146,10 @@ footer .nav .nav-item .nav-link {
 #grid-cols-range{
     display: none !important;
 }
+/**********************************/
+#productId .card{
+    background-color: #ffffff1a;
+}
+#productId .card .list-group-item{
+    background-color: #ffffff1a;
+}
