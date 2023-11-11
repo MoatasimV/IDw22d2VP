@@ -174,3 +174,12 @@ footer .nav .nav-item .nav-link {
 #productId .card span{
     color: #34d636 !important;
 }
+#productId .fixed-bottom{
+    background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important;
+}
+#product-view-add-to-cart{
+    box-shadow: 5px 2px 1px #1f2f5d61;
+}
+#product-quantity{
+    color: #fff;
+}
