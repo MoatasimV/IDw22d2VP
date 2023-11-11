@@ -174,7 +174,7 @@ footer .nav .nav-item .nav-link {
 #productId .card p{
     color: #c18ffc;
 }
-#productId.list-group-item:first-child  span{
+#productId .card .list-group-item  span{
     color: #34d636 !important;
 }
 #productId .fixed-bottom{
