@@ -158,9 +158,19 @@ footer .nav .nav-item .nav-link {
 #productId .card > .list-group{
     background: #16062d;
 }
-#nav-slider-tab{
+#nav-slider-tab , #nav-product-tab{
     background-color: #9861d8 ;
 }
 #productId .card .list-group-item .card-header{
     color: #fff;
+}
+#nav-product .card{
+    background-color: #ffffff1a;
+    padding: 2rem !important;
+}
+#productId .card p{
+    color: #c18ffc;
+}
+#productId .card span{
+    color: #34d636 !important;
 }
