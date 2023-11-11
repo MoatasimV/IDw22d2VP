@@ -6,11 +6,12 @@ body {
     color: #fff !important;
 
 }
+
 .css-logo {
     object-fit: contain !important;
     height: 100% !important;
-    mix-blend-mode: normal!important;
-  }
+    mix-blend-mode: normal !important;
+}
 
 #navigation-menu {
     background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important;
@@ -30,17 +31,19 @@ body {
     color: #cdacf3 !important;
 }
 
-#navbar{
+#navbar {
     background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) !important;
 }
+
 .nav .nav-item .nav-link {
     color: #fff !important;
 }
 
-.swiper-container .swiper-slide > a .card {
+.swiper-container .swiper-slide>a .card {
     background: rgba(255, 255, 255, 0.35) !important;
     backdrop-filter: blur(4px) !important;
 }
+
 .swiper-container .card {
     background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) !important;
 }
@@ -79,9 +82,11 @@ footer .nav .nav-item .nav-link {
 .css-store {
     background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) !important;
 }
-.card-product{
+
+.card-product {
     overflow: hidden !important;
 }
+
 .swiper-slide .justify-content-start {
     position: absolute;
     background-color: #0dea0d;
@@ -94,32 +99,41 @@ footer .nav .nav-item .nav-link {
     top: 29px;
     left: -67px;
 }
-.swiper-slide h2{
+
+.swiper-slide h2 {
     background-color: transparent !important;
 }
-.swiper-slide h2 a{
+
+.swiper-slide h2 a {
     font-weight: bolder;
     color: #cdacf3 !important;
 }
-#js-search-focus{
+
+#js-search-focus {
     color: #fff !important;
 }
-#js-microphone-icon{
+
+#js-microphone-icon {
     color: #cdacf3 !important;
 }
-#js-search-focus::placeholder{
-    color: #cdacf3!important;
+
+#js-search-focus::placeholder {
+    color: #cdacf3 !important;
 }
+
 /*************page2**************/
-.js-wrapper section:nth-child(1){
+.js-wrapper section:nth-child(1) {
     background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) !important;
 }
-.js-wrapper section:nth-child(2){
+
+.js-wrapper section:nth-child(2) {
     padding: 1.7rem 0 !important;
 }
+
 .js-wrapper section:nth-child(3) .card {
-    background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%) ;
+    background: linear-gradient(270deg, #100123 20%, #65349E61 120.35%);
 }
+
 .js-wrapper section:nth-child(3) .card .justify-content-start {
     position: absolute;
     background-color: #0dea0d;
@@ -132,61 +146,91 @@ footer .nav .nav-item .nav-link {
     top: 29px;
     left: -67px;
 }
-.js-wrapper section:nth-child(3) h2{
+
+.js-wrapper section:nth-child(3) h2 {
     background-color: transparent !important;
 }
-.js-wrapper section:nth-child(3) h2 a{
+
+.js-wrapper section:nth-child(3) h2 a {
     font-weight: bolder;
     color: #cdacf3 !important;
 }
-.js-wrapper section:nth-child(4) .text-muted{
+
+.js-wrapper section:nth-child(4) .text-muted {
     color: #cdacf3 !important;
     padding: 1.7rem 0 !important;
 }
-#grid-cols-range{
+
+#grid-cols-range {
     display: none !important;
 }
+
 /**********************************/
-#productId .card{
+#productId .card {
     background-color: #ffffff1a;
     color: #fff;
 }
-#productId .card .list-group-item{
+
+#productId .card .list-group-item {
     background-color: #ffffff1a;
     color: #fff;
 }
-#productId .card > .list-group{
+
+#productId .card>.list-group {
     background: #16062d;
 }
+
 #nav-slider-tab {
-    background-color: #9861d8 ;
+    background-color: #9861d8;
 }
+
 #nav-product-tab {
     background-color: #531d9575;
-  }
-#productId .card .list-group-item .card-header{
+}
+
+#productId .card .list-group-item .card-header {
     color: #fff;
 }
-#nav-product .card{
+
+#nav-product .card {
     background-color: #ffffff1a;
     padding: 2rem !important;
 }
-#productId .card p{
+
+#productId .card p {
     color: #c18ffc;
 }
-#productId .card .list-group li:nth-child(1)  span{
+
+#productId .card .list-group li:nth-child(1) span {
     color: #34d636 !important;
 }
-#productId .fixed-bottom{
+
+#productId .fixed-bottom {
     background: linear-gradient(270deg, #10284D 0%, #A76BED 101.35%) !important;
 }
-#product-view-add-to-cart{
+
+#product-view-add-to-cart {
     box-shadow: 5px 2px 1px #1f2f5d61;
 }
-#product-quantity{
+
+#product-quantity {
     color: #fff;
 }
+
 .card-header:first-child {
     border-radius: var(--bs-card-inner-border-radius) var(--bs-card-inner-border-radius) 0 0;
     color: aliceblue !important;
-  }
+}
+
+/*****************************/
+
+@media only screen and (max-width: 600px) {
+    .css-navbar-brand {
+        height: 50px !important;
+        width: 8rem !important;
+    }
+
+    .css-navbar-brand img {
+        width: 100% !important;
+    }
+}
