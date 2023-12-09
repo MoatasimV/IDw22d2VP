@@ -569,3 +569,9 @@ textarea::placeholder {
   color:#6b7280;
   opacity:1
 }
+
+
+.bg-gray-50 {
+    --tw-bg-opacity: 1;
+    background-color: #111111 !important;
+}
