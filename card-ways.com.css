@@ -1,3 +1,11 @@
+:root {
+    --font-main: 'Apple';
+    --color-primary: #469cb5 !important;
+    --color-primary-dark: #000000 !important;
+    --color-primary-light: #eee !important;
+    --color-primary-reverse: #cccccc !important;
+}
+
 body {
 
     background-color: #000000 !important;
@@ -574,4 +582,26 @@ textarea::placeholder {
 .bg-gray-50 {
     --tw-bg-opacity: 1;
     background-color: #111111 !important;
+}
+
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: #111111 !important;
+}
+
+.text-dark {
+    --tw-text-opacity: 1;
+    color: rgba(29,31,31,var(--tw-text-opacity));
+}
+
+.s-button-primary-link {
+    fill: #414042;
+    fill: var(--color-primary);
+    color: #414042;
+    color: var(--color-primary);
+}
+
+.text-dark {
+    --tw-text-opacity: 1;
+    color: #f9d970 !important;
 }
